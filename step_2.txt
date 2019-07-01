@@ -1,0 +1,7 @@
+> create a github account: you are already here :)
+> set your username: same as the one on github.
+> test is not the same TeSt
+$ git config --global user.username your_name
+
+> check you set the currect name
+$ git config --global user.username
