@@ -18,3 +18,12 @@ $ git status
 $ atom step_1.txt
 $ ls
 $ git status
+
+> add step_1.txt to git: to "save" it
+$ git add step_1.txt
+
+> now, commit your changes: add a commit message
+$ git commit -m your_commit_message
+
+> modify your txt file: to get the diff, then
+$ git diff
