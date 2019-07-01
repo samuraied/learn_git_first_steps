@@ -5,3 +5,11 @@ $ git config --global user.username your_name
 
 > check you set the currect name
 $ git config --global user.username
+
+> add a remote connection
+$ git remote add remote_name URL
+
+> push | "send" all your local files to remote
+$ git push remote_name master
+
+> refresh page on githb: WOW, you are a dev :)
