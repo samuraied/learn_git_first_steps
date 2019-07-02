@@ -1,0 +1,28 @@
+> read about branches
+> https://guides.github.com/introduction/flow/
+
+> create a branch: use your github name, case sensitive
+$ git branch branch_name
+
+> now, get into the newly created branch
+$ git checkout branch_name
+
+> create a new file: in patchwork/contributors
+$ atom add-username.txt
+
+> add and commit: just like before
+$ git add .
+$ git commit -m add_comment
+
+> push your updates: to your fork
+$ git push origin branch_name
+
+> if you named your branch wrong: dont worry, be happy
+> rename it with this
+$ git branch -m new_branch_name
+
+> to list all branches
+$ git branch
+
+> verify what branch you are on
+$ git status

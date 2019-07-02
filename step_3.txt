@@ -1,0 +1,15 @@
+> now fork github.com/jlord/patchwork
+> click on fork on top right.
+
+> clone your newly created fork locally
+> make sure you are not in your first_steps folder
+$ cd ..
+$ git clone url_from_github
+$ cd patchwork
+
+> check if address is set up: inside patchwork folder
+$ git remote -v
+
+> connect your fork to the original repo
+$ git remote add upstream original_repo_url
+$ git remote -v
