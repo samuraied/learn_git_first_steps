@@ -26,3 +26,22 @@ $ git branch
 
 > verify what branch you are on
 $ git status
+
+> pull any updates: yay
+$ git pull remote_name remote_branch
+
+> see what are the changes before you pull
+$ git fetch --dry-run
+
+> request pull from original repo
+> green button, says compare and create pull request
+
+> merge the branch into the main gh-pages
+$ git checkout gh-pages
+$ git merge branch_name
+
+> delete the branch: you dont need it anymore
+$ git branch -d branch_name
+
+> delete the remote branch from github
+$ git push remote_name --delete branch_name

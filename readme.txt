@@ -9,3 +9,8 @@ Those who never fail, never try.
 
 I know it sounds stupid.
 I wish if someone told me this when i first started.
+
+this is based on git-it
+https://github.com/jlord/git-it-electron
+
+i thank the devs behind it :)

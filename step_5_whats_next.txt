@@ -1,0 +1,8 @@
+Don't stop now, keep going! Here are some ideas for what to work on next.
+
+    Make a repository on GitHub named 'ghusername.github.io' and fill it with web site files. GitHub will host for free at the same address: ghusername.github.io. Learn more.
+    Create a repository and open an issue to make a to-do list.
+    Find interesting open source projects to work with in Explore.
+    Checkout the GitHub Hello World Guide for more GitHub basics.
+    Fork an existing site to get your own up and runing: Fork-n-go.
+
